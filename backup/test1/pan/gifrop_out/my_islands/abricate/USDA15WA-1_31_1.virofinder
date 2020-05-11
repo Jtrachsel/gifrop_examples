@@ -1,0 +1,30 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	2708	3070	-	NP_599061.1	1-363/363	===============	0/0	100.00	95.04	PHAGE	NC_003444_22347_22709	hypothetical protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	3061	3597	-	NP_599062.1	1-537/537	===============	0/0	100.00	98.51	PHAGE	NC_003444_22700_23236	hypothetical protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	3725	4549	-	NP_599063.1	1-825/825	===============	0/0	100.00	97.94	PHAGE	NC_003444_23364_24188	hypothetical protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	4615	4977	-	NP_599064.1	1-363/363	===============	0/0	100.00	99.45	PHAGE	NC_003444_24254_24616	hypothetical protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	5578	5855	-	NP_599065.1	20-297/297	.==============	0/0	93.60	97.84	PHAGE	NC_003444_25217_25513	hypothetical protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	6237	6911	-	NP_599066.1	1-675/675	===============	0/0	100.00	99.41	PHAGE	NC_003444_25686_26360	repressor Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	7002	7201	+	NP_599067.1	1-200/201	===============	0/0	99.50	98.50	PHAGE	NC_003444_26451_26651	repressor Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	7234	7803	+	YP_001272556.1	1-564/564	========/======	1/6	100.00	88.60	PHAGE	NC_009514_35557_36120	hypothetical protein Phage cdtI DNA complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	9092	9580	+	NP_599072.1	1-489/489	===============	0/0	100.00	95.71	PHAGE	NC_003444_29126_29614	hypothetical protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	9565	10233	+	YP_001272560.1	31-699/699	===============	0/0	95.71	97.61	PHAGE	NC_009514_38417_39115	putative DNA adenine methylase Phage cdtI DNA complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	10230	10556	+	NP_599074.1	1-327/327	===============	0/0	100.00	98.47	PHAGE	NC_003444_30264_30590	hypothetical protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	10553	10942	+	NP_599075.1	1-390/390	===============	0/0	100.00	97.44	PHAGE	NC_003444_30587_30976	crossover junction endodeoxyribonuclease Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	10962	11771	+	NP_599076.1	1-810/810	========/======	8/32	98.02	86.92	PHAGE	NC_003444_30996_31805	hypothetical protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	11851	12768	+	NP_599077.1	1-918/918	===============	0/0	100.00	97.28	PHAGE	NC_003444_31885_32802	hypothetical protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	12782	13534	+	NP_599078.1	1-753/753	===============	0/0	100.00	97.74	PHAGE	NC_003444_32816_33568	antitermination protein Q Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	16593	16937	+	NP_599085.1	5-349/351	===============	0/0	98.29	88.70	PHAGE	NC_003444_36666_37016	hypothetical protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	17065	17567	+	NP_599033.1	1-495/495	========/======	1/8	100.00	96.22	PHAGE	NC_003444_68_562	small terminase subunit Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	17564	19235	+	NP_599034.1	1-1673/1734	========/======	1/1	96.42	97.31	PHAGE	NC_003444_559_2292	large terminase subunit Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	19308	19490	+	NP_700376.1	1-183/183	===============	0/0	100.00	98.36	PHAGE	NC_004313_2252_2434	putative integral membrane protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	19780	21530	+	NP_599046.1	75-1835/1836	========/======	14/20	95.10	96.83	PHAGE	NC_003444_9774_11609	tail protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	22205	23532	+	NP_599047.1	6-1344/1344	========/======	4/11	98.81	97.31	PHAGE	NC_003444_11655_12998	tail/DNA circulation protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	23529	24606	+	NP_599048.1	1-1080/1080	========/======	2/2	99.81	98.43	PHAGE	NC_003444_12995_14074	tail protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	24606	25154	+	NP_599049.1	1-549/549	===============	0/0	100.00	98.18	PHAGE	NC_003444_14074_14622	tail protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	25154	25578	+	NP_599050.1	1-426/426	========/======	1/1	99.77	97.89	PHAGE	NC_003444_14622_15047	tail protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	25565	26623	+	NP_599051.1	1-1059/1059	===============	0/0	100.00	97.64	PHAGE	NC_003444_15034_16092	tail protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	26614	27198	+	NP_599052.1	1-585/585	===============	0/0	100.00	96.41	PHAGE	NC_003444_16083_16667	tail protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	31492	31740	-	YP_002274210.1	1-249/249	===============	0/0	100.00	93.98	PHAGE	NC_011356_52448_52696	putative DNA damage-inducible protein Enterobacteria phage YYZ-2008 complete prophage genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	32337	32602	-	YP_001272538.1	1-266/273	===============	0/0	97.44	93.98	PHAGE	NC_009514_23204_23476	hypothetical protein Phage cdtI DNA complete genome.	phage
+./USDA15WA-1_31_1.fasta	USDA15WA-1_31_1	32563	32743	-	YP_001272539.1	1-180/180	========/======	1/1	100.00	97.24	PHAGE	NC_009514_23437_23616	hypothetical protein Phage cdtI DNA complete genome.	phage

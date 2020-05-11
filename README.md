@@ -1,18 +1,48 @@
-# gifrop_examples  
+README
+================
+Julian Trachsel
+5/10/2020
 
+# Install gifrop
 
+Make sure you have some kinda of conda installation completed. I like
+miniconda.  
+<https://www.docs.conda.io/en/latest/miniconda.html>
 
+Once you have miniconda install gifrop.
 
+From the command line:
 
+``` bash
+conda create -n gifrop
+conda activate gifrop
+conda install -c conda-forge -c bioconda -c defaults gifrop
+```
 
-cat Burks.tsv |awk -F '\t' '{print $16}'| awk -F '/' '{print $0 FS $10 "_genomic.fna.gz"}' |sed '1d'
- 1054  cat Burks.tsv |awk -F '\t' '{print $16}'| awk -F '/' '{print $0 FS $10 "_genomic.fna.gz"}' |sed '1d' > burks.ftp
- 1055  mv burks.ftp burks
- 1056  cd burks/
- 1057  ls
- 1058  cat burks.ftp
- 1059  parallel wget {} ::: burks.ftp
- 1060  cat burks.ftp | parallel 'wget {}'
- 1061  clear
+# Clone test repo
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5369199/ burks paper
+``` bash
+git clone https://www.github.com/jtrachsel/gifrop_examples.git  
+cd gifrop_examples
+```
+
+# First Test
+
+  - Two strains of Salmonella enterica
+      - LT2: famous reference strain  
+      - USDA15WA-1: Isolate under investigation in the Bearson Lab
+
+Two genomic islands of interest here. 80kb metal tolerance island
+(SGI4), 28kb multidrug resist module.
+
+For this example I have already annotated the genomes with prokka and
+generated the pangenome with Roary.
+
+``` bash
+cd test1
+
+cd pan
+pan_pipe --prokka_args '--cpus 4 --proteins LT2.gbk' --roary_args '-p 8' --gifrop_args '--threads 8'
+
+cd gifrop_out
+```

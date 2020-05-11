@@ -1,0 +1,2 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+./LT2_11_1.fasta	LT2_11_1	7237	7590	-	grvA	1-354/354	===============	0/0	100.00	100.00	vfdb	AAG03023	(grvA) gifsy-2 related virulence gene [GrvA (VF0110)] [Salmonella enterica (serovar typhimurium)]	

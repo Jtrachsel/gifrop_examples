@@ -1,0 +1,350 @@
+Using nucl database ncbi:  5386 sequences -  2020-Apr-19
+Processing: ./LT2_11_1.fasta
+Found 0 genes in ./LT2_11_1.fasta
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.
+Using nucl database ncbi:  5386 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_19_1.fasta
+Found 0 genes in ./USDA15WA-1_19_1.fasta
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.
+Using nucl database ncbi:  5386 sequences -  2020-Apr-19
+Processing: ./LT2_8_1.fasta
+Found 0 genes in ./LT2_8_1.fasta
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.
+Using nucl database ncbi:  5386 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_10_1.fasta
+Found 0 genes in ./USDA15WA-1_10_1.fasta
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.
+Using nucl database ncbi:  5386 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_3_1.fasta
+Found 0 genes in ./USDA15WA-1_3_1.fasta
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.
+Using nucl database ncbi:  5386 sequences -  2020-Apr-19
+Processing: ./LT2_7_1.fasta
+Found 0 genes in ./LT2_7_1.fasta
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.
+Using nucl database ncbi:  5386 sequences -  2020-Apr-19
+Processing: ./LT2_22_1.fasta
+Found 0 genes in ./LT2_22_1.fasta
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.
+Using nucl database ncbi:  5386 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_15_1.fasta
+Found 0 genes in ./USDA15WA-1_15_1.fasta
+Tip: did you know? abricate was named after 'A'nti 'B'acterial 'R'esistiance
+Done.
+Using nucl database ncbi:  5386 sequences -  2020-Apr-19
+Processing: ./LT2_23_1.fasta
+Found 0 genes in ./LT2_23_1.fasta
+Tip: did you know? abricate was named after 'A'nti 'B'acterial 'R'esistiance
+Done.
+Using nucl database ncbi:  5386 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_25_1.fasta
+Found 0 genes in ./USDA15WA-1_25_1.fasta
+Tip: did you know? abricate was named after 'A'nti 'B'acterial 'R'esistiance
+Done.
+Using nucl database ncbi:  5386 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_32_1.fasta
+Found 0 genes in ./USDA15WA-1_32_1.fasta
+Tip: did you know? abricate was named after 'A'nti 'B'acterial 'R'esistiance
+Done.
+Using nucl database ncbi:  5386 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_23_1.fasta
+Found 5 genes in ./USDA15WA-1_23_1.fasta
+Tip: did you know? abricate was named after 'A'nti 'B'acterial 'R'esistiance
+Done.
+Using nucl database ncbi:  5386 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_31_1.fasta
+Found 0 genes in ./USDA15WA-1_31_1.fasta
+Tip: did you know? abricate was named after 'A'nti 'B'acterial 'R'esistiance
+Done.
+Using nucl database ncbi:  5386 sequences -  2020-Apr-19
+Processing: ./LT2_31_1.fasta
+Found 0 genes in ./LT2_31_1.fasta
+Tip: did you know? abricate was named after 'A'nti 'B'acterial 'R'esistiance
+Done.
+Using nucl database vfdb:  2597 sequences -  2020-Apr-19
+Processing: ./LT2_8_1.fasta
+Found 0 genes in ./LT2_8_1.fasta
+Tip: did you know? abricate was named after 'A'nti 'B'acterial 'R'esistiance
+Done.
+Using nucl database vfdb:  2597 sequences -  2020-Apr-19
+Processing: ./LT2_11_1.fasta
+Found 1 genes in ./LT2_11_1.fasta
+Tip: did you know? abricate was named after 'A'nti 'B'acterial 'R'esistiance
+Done.
+Using nucl database vfdb:  2597 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_10_1.fasta
+Found 0 genes in ./USDA15WA-1_10_1.fasta
+Tip: did you know? abricate was named after 'A'nti 'B'acterial 'R'esistiance
+Done.
+Using nucl database vfdb:  2597 sequences -  2020-Apr-19
+Processing: ./LT2_22_1.fasta
+Found 0 genes in ./LT2_22_1.fasta
+Tip: did you know? abricate was named after 'A'nti 'B'acterial 'R'esistiance
+Done.
+Using nucl database vfdb:  2597 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_19_1.fasta
+Found 0 genes in ./USDA15WA-1_19_1.fasta
+Tip: did you know? abricate was named after 'A'nti 'B'acterial 'R'esistiance
+Done.
+Using nucl database vfdb:  2597 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_15_1.fasta
+Found 0 genes in ./USDA15WA-1_15_1.fasta
+Tip: did you know? abricate was named after 'A'nti 'B'acterial 'R'esistiance
+Done.
+Using nucl database vfdb:  2597 sequences -  2020-Apr-19
+Processing: ./LT2_7_1.fasta
+Found 0 genes in ./LT2_7_1.fasta
+Tip: did you know? abricate was named after 'A'nti 'B'acterial 'R'esistiance
+Done.
+Using nucl database vfdb:  2597 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_3_1.fasta
+Found 0 genes in ./USDA15WA-1_3_1.fasta
+Tip: did you know? abricate was named after 'A'nti 'B'acterial 'R'esistiance
+Done.
+Using nucl database vfdb:  2597 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_25_1.fasta
+Found 0 genes in ./USDA15WA-1_25_1.fasta
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.
+Using nucl database vfdb:  2597 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_23_1.fasta
+Found 0 genes in ./USDA15WA-1_23_1.fasta
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.
+Using nucl database vfdb:  2597 sequences -  2020-Apr-19
+Processing: ./LT2_23_1.fasta
+Found 0 genes in ./LT2_23_1.fasta
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.
+Using nucl database vfdb:  2597 sequences -  2020-Apr-19
+Processing: ./LT2_31_1.fasta
+Found 8 genes in ./LT2_31_1.fasta
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.
+Using nucl database vfdb:  2597 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_32_1.fasta
+Found 0 genes in ./USDA15WA-1_32_1.fasta
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.
+Using nucl database vfdb:  2597 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_31_1.fasta
+Found 0 genes in ./USDA15WA-1_31_1.fasta
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.
+Using nucl database plasmidfinder:  460 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_10_1.fasta
+Found 0 genes in ./USDA15WA-1_10_1.fasta
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.
+Using nucl database plasmidfinder:  460 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_19_1.fasta
+Found 0 genes in ./USDA15WA-1_19_1.fasta
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.
+Using nucl database plasmidfinder:  460 sequences -  2020-Apr-19
+Processing: ./LT2_8_1.fasta
+Found 0 genes in ./LT2_8_1.fasta
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.
+Using nucl database plasmidfinder:  460 sequences -  2020-Apr-19
+Processing: ./LT2_11_1.fasta
+Found 0 genes in ./LT2_11_1.fasta
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.
+Using nucl database plasmidfinder:  460 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_3_1.fasta
+Found 0 genes in ./USDA15WA-1_3_1.fasta
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.
+Using nucl database plasmidfinder:  460 sequences -  2020-Apr-19
+Processing: ./LT2_7_1.fasta
+Found 0 genes in ./LT2_7_1.fasta
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.
+Using nucl database plasmidfinder:  460 sequences -  2020-Apr-19
+Processing: ./LT2_22_1.fasta
+Found 0 genes in ./LT2_22_1.fasta
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.
+Using nucl database plasmidfinder:  460 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_15_1.fasta
+Found 0 genes in ./USDA15WA-1_15_1.fasta
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.
+Using nucl database plasmidfinder:  460 sequences -  2020-Apr-19
+Processing: ./LT2_31_1.fasta
+Found 2 genes in ./LT2_31_1.fasta
+Tip: have a suggestion for abricate? Tell me at https://github.com/tseemann/abricate/issues
+Done.
+Using nucl database plasmidfinder:  460 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_32_1.fasta
+Found 0 genes in ./USDA15WA-1_32_1.fasta
+Tip: have a suggestion for abricate? Tell me at https://github.com/tseemann/abricate/issues
+Done.
+Using nucl database plasmidfinder:  460 sequences -  2020-Apr-19
+Processing: ./LT2_23_1.fasta
+Found 0 genes in ./LT2_23_1.fasta
+Tip: have a suggestion for abricate? Tell me at https://github.com/tseemann/abricate/issues
+Done.
+Using nucl database plasmidfinder:  460 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_23_1.fasta
+Found 0 genes in ./USDA15WA-1_23_1.fasta
+Tip: have a suggestion for abricate? Tell me at https://github.com/tseemann/abricate/issues
+Done.
+Using nucl database plasmidfinder:  460 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_25_1.fasta
+Found 0 genes in ./USDA15WA-1_25_1.fasta
+Tip: have a suggestion for abricate? Tell me at https://github.com/tseemann/abricate/issues
+Done.
+Using nucl database plasmidfinder:  460 sequences -  2020-Apr-19
+Processing: ./USDA15WA-1_31_1.fasta
+Found 0 genes in ./USDA15WA-1_31_1.fasta
+Tip: have a suggestion for abricate? Tell me at https://github.com/tseemann/abricate/issues
+Done.
+Using nucl database viroseqs:  44246 sequences -  2020-Apr-23
+Processing: ./LT2_8_1.fasta
+Found 0 genes in ./LT2_8_1.fasta
+Tip: have a suggestion for abricate? Tell me at https://github.com/tseemann/abricate/issues
+Done.
+Using nucl database viroseqs:  44246 sequences -  2020-Apr-23
+Processing: ./USDA15WA-1_19_1.fasta
+Found 3 genes in ./USDA15WA-1_19_1.fasta
+Tip: have a suggestion for abricate? Tell me at https://github.com/tseemann/abricate/issues
+Done.
+Using nucl database viroseqs:  44246 sequences -  2020-Apr-23
+Processing: ./USDA15WA-1_10_1.fasta
+Found 1 genes in ./USDA15WA-1_10_1.fasta
+Tip: have a suggestion for abricate? Tell me at https://github.com/tseemann/abricate/issues
+Done.
+Using nucl database viroseqs:  44246 sequences -  2020-Apr-23
+Processing: ./LT2_11_1.fasta
+Found 1 genes in ./LT2_11_1.fasta
+Tip: have a suggestion for abricate? Tell me at https://github.com/tseemann/abricate/issues
+Done.
+Using nucl database viroseqs:  44246 sequences -  2020-Apr-23
+Processing: ./LT2_22_1.fasta
+Found 0 genes in ./LT2_22_1.fasta
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.
+Using nucl database viroseqs:  44246 sequences -  2020-Apr-23
+Processing: ./LT2_7_1.fasta
+Found 3 genes in ./LT2_7_1.fasta
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.
+Using nucl database viroseqs:  44246 sequences -  2020-Apr-23
+Processing: ./USDA15WA-1_15_1.fasta
+Found 40 genes in ./USDA15WA-1_15_1.fasta
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.
+Using nucl database viroseqs:  44246 sequences -  2020-Apr-23
+Processing: ./USDA15WA-1_3_1.fasta
+Found 44 genes in ./USDA15WA-1_3_1.fasta
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.
+Using nucl database viroseqs:  44246 sequences -  2020-Apr-23
+Processing: ./LT2_23_1.fasta
+Found 0 genes in ./LT2_23_1.fasta
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.
+Using nucl database viroseqs:  44246 sequences -  2020-Apr-23
+Processing: ./USDA15WA-1_25_1.fasta
+Found 1 genes in ./USDA15WA-1_25_1.fasta
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.
+Using nucl database viroseqs:  44246 sequences -  2020-Apr-23
+Processing: ./USDA15WA-1_23_1.fasta
+Found 2 genes in ./USDA15WA-1_23_1.fasta
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.
+Using nucl database viroseqs:  44246 sequences -  2020-Apr-23
+Processing: ./USDA15WA-1_31_1.fasta
+Found 29 genes in ./USDA15WA-1_31_1.fasta
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.
+Using nucl database viroseqs:  44246 sequences -  2020-Apr-23
+Processing: ./USDA15WA-1_32_1.fasta
+Found 0 genes in ./USDA15WA-1_32_1.fasta
+Tip: you can use the --summary option to combine reports in a presence/absence matrix.
+Done.
+Using nucl database viroseqs:  44246 sequences -  2020-Apr-23
+Processing: ./LT2_31_1.fasta
+Found 1 genes in ./LT2_31_1.fasta
+Tip: you can use the --summary option to combine reports in a presence/absence matrix.
+Done.
+Using nucl database megares2:  7378 sequences -  2020-Apr-23
+Processing: ./USDA15WA-1_19_1.fasta
+Found 0 genes in ./USDA15WA-1_19_1.fasta
+Tip: you can use the --summary option to combine reports in a presence/absence matrix.
+Done.
+Using nucl database megares2:  7378 sequences -  2020-Apr-23
+Processing: ./USDA15WA-1_10_1.fasta
+Found 0 genes in ./USDA15WA-1_10_1.fasta
+Tip: you can use the --summary option to combine reports in a presence/absence matrix.
+Done.
+Using nucl database megares2:  7378 sequences -  2020-Apr-23
+Processing: ./LT2_11_1.fasta
+Found 0 genes in ./LT2_11_1.fasta
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.
+Using nucl database megares2:  7378 sequences -  2020-Apr-23
+Processing: ./LT2_8_1.fasta
+Found 0 genes in ./LT2_8_1.fasta
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.
+Using nucl database megares2:  7378 sequences -  2020-Apr-23
+Processing: ./USDA15WA-1_15_1.fasta
+Found 0 genes in ./USDA15WA-1_15_1.fasta
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.
+Using nucl database megares2:  7378 sequences -  2020-Apr-23
+Processing: ./LT2_7_1.fasta
+Found 0 genes in ./LT2_7_1.fasta
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.
+Using nucl database megares2:  7378 sequences -  2020-Apr-23
+Processing: ./USDA15WA-1_3_1.fasta
+Found 0 genes in ./USDA15WA-1_3_1.fasta
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.
+Using nucl database megares2:  7378 sequences -  2020-Apr-23
+Processing: ./LT2_22_1.fasta
+Found 0 genes in ./LT2_22_1.fasta
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.
+Using nucl database megares2:  7378 sequences -  2020-Apr-23
+Processing: ./LT2_23_1.fasta
+Found 0 genes in ./LT2_23_1.fasta
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.
+Using nucl database megares2:  7378 sequences -  2020-Apr-23
+Processing: ./USDA15WA-1_25_1.fasta
+Found 0 genes in ./USDA15WA-1_25_1.fasta
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.
+Using nucl database megares2:  7378 sequences -  2020-Apr-23
+Processing: ./USDA15WA-1_31_1.fasta
+Found 0 genes in ./USDA15WA-1_31_1.fasta
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.
+Using nucl database megares2:  7378 sequences -  2020-Apr-23
+Processing: ./USDA15WA-1_32_1.fasta
+Found 20 genes in ./USDA15WA-1_32_1.fasta
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.
+Using nucl database megares2:  7378 sequences -  2020-Apr-23
+Processing: ./USDA15WA-1_23_1.fasta
+Found 12 genes in ./USDA15WA-1_23_1.fasta
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.
+Using nucl database megares2:  7378 sequences -  2020-Apr-23
+Processing: ./LT2_31_1.fasta
+Found 0 genes in ./LT2_31_1.fasta
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.

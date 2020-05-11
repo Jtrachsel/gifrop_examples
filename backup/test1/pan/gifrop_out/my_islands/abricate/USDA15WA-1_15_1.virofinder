@@ -1,0 +1,41 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	1224	1781	-	NP_700398.1	1-558/570	===============	0/0	97.89	92.47	PHAGE	NC_004313_18480_19049	Probable tail fiber assembly protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	1781	3343	-	NP_700397.1	1-1563/1563	===============	0/0	100.00	95.65	PHAGE	NC_004313_16918_18480	tail protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	3330	3917	-	NP_700396.1	1-588/588	===============	0/0	100.00	98.13	PHAGE	NC_004313_16344_16931	putative tail protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	3920	4441	-	NP_700395.1	1-522/522	===============	0/0	100.00	98.66	PHAGE	NC_004313_15820_16341	putative tail protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	4476	5020	-	NP_700394.1	1-546/546	========/======	1/1	99.82	99.08	PHAGE	NC_004313_15240_15785	putative head assembly protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	4992	5405	-	NP_700393.1	1-414/414	===============	0/0	100.00	99.03	PHAGE	NC_004313_14855_15268	putative tail protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	5410	5943	-	NP_700392.1	1-534/534	===============	0/0	100.00	99.25	PHAGE	NC_004313_14317_14850	putative base plate assembly protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	5943	7001	-	NP_700391.1	1-1059/1059	===============	0/0	100.00	97.92	PHAGE	NC_004313_13259_14317	Tail protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	7326	8338	-	NP_700390.1	1-1014/1014	========/======	1/1	99.90	98.52	PHAGE	NC_004313_11922_12935	tail/DNA circulation protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	8877	10789	-	NP_700389.1	1-1913/1929	===============	0/0	99.17	95.09	PHAGE	NC_004313_9960_11888	tail protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	10874	11209	-	NP_700388.1	1-336/336	===============	0/0	100.00	100.00	PHAGE	NC_004313_9540_9875	hypothetical protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	11197	11553	-	NP_700387.1	1-357/357	===============	0/0	100.00	99.44	PHAGE	NC_004313_9196_9552	Tail tube protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	11553	13049	-	NP_700386.1	1-1497/1497	===============	0/0	100.00	99.27	PHAGE	NC_004313_7700_9196	Tail Sheath protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	13039	13203	-	NP_700385.1	1-165/165	===============	0/0	100.00	96.36	PHAGE	NC_004313_7546_7710	hypothetical protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	13222	13782	-	NP_700384.1	1-561/561	===============	0/0	100.00	86.45	PHAGE	NC_004313_6982_7542	hypothetical protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	14664	14987	-	NP_700381.1	1-324/324	===============	0/0	100.00	94.14	PHAGE	NC_004313_5777_6100	hypothetical protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	14990	15190	-	NP_700380.1	1-201/201	===============	0/0	100.00	86.07	PHAGE	NC_004313_5574_5774	hypothetical protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	15240	16445	-	NP_700379.1	1-1206/1206	===============	0/0	100.00	94.20	PHAGE	NC_004313_4318_5523	Major capsid protein precursor Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	16460	17146	-	NP_700378.1	1-687/687	===============	0/0	100.00	94.32	PHAGE	NC_004313_3617_4303	Pro-head protease Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	17088	18332	-	NP_700377.1	1-1245/1245	===============	0/0	100.00	99.68	PHAGE	NC_004313_2431_3675	Portal Protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	18329	18511	-	NP_700376.1	1-183/183	===============	0/0	100.00	98.91	PHAGE	NC_004313_2252_2434	putative integral membrane protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	18523	20256	-	NP_700375.1	1-1734/1734	===============	0/0	100.00	99.71	PHAGE	NC_004313_507_2240	Terminase large subunit Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	20253	20747	-	NP_700374.1	1-495/495	===============	0/0	100.00	100.00	PHAGE	NC_004313_16_510	terminase small subunit Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	20875	21223	-	NP_599085.1	1-349/351	===============	0/0	99.43	88.83	PHAGE	NC_003444_36666_37016	hypothetical protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	21979	22250	-	NP_599084.1	1-272/339	=============..	0/0	80.24	84.56	PHAGE	NC_003444_36301_36639	putative Rz1 lytic protein Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	24280	25032	-	NP_599078.1	1-753/753	===============	0/0	100.00	98.14	PHAGE	NC_003444_32816_33568	antitermination protein Q Enterobacteria phage SfV complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	25052	25305	-	NP_700421.1	1-255/261	========/======	1/1	97.32	96.47	PHAGE	NC_004313_35221_35481	hypothetical protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	25281	25999	-	NP_700420.1	1-720/720	========/======	1/1	99.86	97.22	PHAGE	NC_004313_34527_35246	hypothetical protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	26043	26903	-	NP_700419.1	1-861/861	===============	0/0	100.00	98.03	PHAGE	NC_004313_33623_34483	hypothetical protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	26920	27294	-	NP_700418.1	16-390/390	===============	0/0	96.15	85.60	PHAGE	NC_004313_33217_33606	holiday-junction resolvase Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	29631	29855	-	YP_001272558.1	1-225/225	===============	0/0	100.00	83.56	PHAGE	NC_009514_37262_37486	hypothetical protein Phage cdtI DNA complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	30991	31272	-	NP_700413.1	1-282/282	===============	0/0	100.00	99.64	PHAGE	NC_004313_29372_29653	hypothetical protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	31574	31798	-	NP_700412.1	1-225/225	===============	0/0	100.00	100.00	PHAGE	NC_004313_28846_29070	DNA binding protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	31896	32591	+	NP_700411.1	1-696/696	===============	0/0	100.00	99.14	PHAGE	NC_004313_28053_28748	regulatory protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	33862	34233	+	NP_700410.1	1-372/372	===============	0/0	100.00	99.46	PHAGE	NC_004313_26866_27237	hypothetical protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	34291	35118	+	NP_700409.1	1-828/828	===============	0/0	100.00	98.31	PHAGE	NC_004313_25981_26808	hypothetical protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	35255	35794	+	NP_700408.1	1-540/540	===============	0/0	100.00	99.63	PHAGE	NC_004313_25305_25844	hypothetical protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	37253	37822	+	NP_700403.1	1-570/570	===============	0/0	100.00	99.83	PHAGE	NC_004313_22475_23044	Endodeoxyribonuclease Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	37847	38089	+	NP_700402.1	1-243/243	===============	0/0	100.00	100.00	PHAGE	NC_004313_22208_22450	hypothetical protein Salmonella phage ST64B complete genome.	phage
+./USDA15WA-1_15_1.fasta	USDA15WA-1_15_1	38091	39080	+	NP_700401.1	1-990/990	===============	0/0	100.00	99.90	PHAGE	NC_004313_21217_22206	Integrase protein Salmonella phage ST64B complete genome.	phage

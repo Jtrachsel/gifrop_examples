@@ -1,0 +1,4 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+./LT2_7_1.fasta	LT2_7_1	14201	14511	+	NP_700424.1	1-312/312	========/======	1/1	99.68	99.68	PHAGE	NC_004313_37031_37342	lysis protein holin Salmonella phage ST64B complete genome.	phage
+./LT2_7_1.fasta	LT2_7_1	14548	15162	+	NP_700425.1	1-615/615	===============	0/0	100.00	90.41	PHAGE	NC_004313_37379_37993	lytic enzyme putative glycohydrolase Salmonella phage ST64B complete genome.	phage
+./LT2_7_1.fasta	LT2_7_1	15159	15640	+	NP_700426.1	1-482/486	===============	0/0	99.18	94.40	PHAGE	NC_004313_37990_38475	lysis protein Salmonella phage ST64B complete genome.	phage
