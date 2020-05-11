@@ -1,6 +1,0 @@
-#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
-./USDA15WA-1_23_1.fasta	USDA15WA-1_23_1	1290	2150	+	blaTEM-1	1-861/861	===============	0/0	100.00	100.00	ncbi	NG_050145.1	class A broad-spectrum beta-lactamase TEM-1	BETA-LACTAM
-./USDA15WA-1_23_1.fasta	USDA15WA-1_23_1	3513	4349	-	aph(6)-Id	1-837/837	===============	0/0	100.00	100.00	ncbi	NG_047464.1	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
-./USDA15WA-1_23_1.fasta	USDA15WA-1_23_1	4349	5176	-	aph(3'')-Ib	1-828/828	===============	0/0	100.00	100.00	ncbi	NG_056002.2	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
-./USDA15WA-1_23_1.fasta	USDA15WA-1_23_1	5213	6028	-	sul2	1-816/816	===============	0/0	100.00	99.88	ncbi	NG_048118.1	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
-./USDA15WA-1_23_1.fasta	USDA15WA-1_23_1	15987	17192	-	tet(B)	1-1206/1206	===============	0/0	100.00	100.00	ncbi	NG_048163.1	tetracycline efflux MFS transporter Tet(B)	TETRACYCLINE

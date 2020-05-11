@@ -1,0 +1,110 @@
+[1] "loading packages"
+[1] "done loading packages"
+[1] "Identifying genomic islands... (streches of consecutive locus tags"
+[1] "finding islands for 08-1736"
+Note: Using an external vector in selections is ambiguous.
+ℹ Use `all_of(genome)` instead of `genome` to silence this message.
+ℹ See <https://tidyselect.r-lib.org/reference/faq-external-vector.html>.
+This message is displayed once per session.
+[1] "finding islands for 12-214-06665"
+[1] "finding islands for LT2"
+[1] "finding islands for PNCS007087"
+[1] "finding islands for PNCS014881"
+[1] "finding islands for SA20082869"
+[1] "finding islands for USDA15WA-1"
+[1] "reading in gffs..."
+[1] "working_on_genome_ 08-1736"
+[1] "Finished 08-1736"
+[1] "working_on_genome_ 12-214-06665"
+[1] "Finished 12-214-06665"
+[1] "working_on_genome_ LT2"
+[1] "Finished LT2"
+[1] "working_on_genome_ PNCS007087"
+[1] "Finished PNCS007087"
+[1] "working_on_genome_ PNCS014881"
+[1] "Finished PNCS014881"
+[1] "working_on_genome_ SA20082869"
+[1] "Finished SA20082869"
+[1] "working_on_genome_ USDA15WA-1"
+[1] "Finished USDA15WA-1"
+[1] "reading in fastas..."
+[1] "done reading in fastas"
+Joining, by = "seqid"
+Warning message:
+Column `seqid` has different attributes on LHS and RHS of join 
+Joining, by = "genome_name"
+[1] "collecting island gffs"
+Adding missing grouping variables: `seqid`
+Joining, by = "seqid"
+Joining, by = "genome_name"
+[1] "done writing island gffs"
+Joining, by = "locus_tags"
+[1] "reading in abricate files..."
+[1] "yes! megaresfiles"
+[1] "using megares database instead of resfinder"
+[1] "Done reading in abricate files"
+Joining, by = "island_ID"
+Joining, by = "locus_tags"
+Joining, by = "Gene"
+[1] "constructing graph: Nodes are islands, edges are number of shared genes"
+[1] "Primary clustering, any islands sharing any gene will be in the same primary cluster"
+[1] "Secondary clustering: detecting densely connected communities in the graph using the Louvain method"
+[1] "this should separate very different islands that only share a gene or two"
+null device 
+          1 
+null device 
+          1 
+Joining, by = "island_ID"
+Joining, by = "island_ID"
+Joining, by = "island_ID"
+Joining, by = "island_ID"
+Joining, by = "island_ID"
+Joining, by = "island_ID"
+Joining, by = "locus_tags"
+Joining, by = "Gene"
+[1] "Percent of pan genome contained within genomic islands:"
+[1] 26.4528
+[1] "Percent of accessory genome contained within these islands:"
+[1] 92.53819
+[[1]]
+
+[[2]]
+
+[[3]]
+
+[[4]]
+
+[[5]]
+
+[[6]]
+
+[[7]]
+
+[[8]]
+
+Joining, by = "secondary_cluster"
+Warning message:
+In RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set1 is 9
+Returning the palette you asked for with that many colors
+
+null device 
+          1 
+Warning message:
+In RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set1 is 9
+Returning the palette you asked for with that many colors
+
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+Warning message:
+In RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set1 is 9
+Returning the palette you asked for with that many colors
+
+null device 
+          1 

@@ -1,4 +1,0 @@
-#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
-./USDA15WA-1_19_1.fasta	USDA15WA-1_19_1	432	713	-	NP_040611.1	1-282/282	===============	0/0	100.00	95.03	PHAGE	NC_001416_29374_29655	ea8.5 Enterobacteria phage lambda complete genome.	phage
-./USDA15WA-1_19_1.fasta	USDA15WA-1_19_1	1202	1578	-	YP_006560842.1	1-376/378	========/======	1/1	99.47	88.06	PHAGE	NC_018279_28850_29227	putative DNA methyltransferase Salmonella phage vB_SosS_Oslo complete genome.	phage
-./USDA15WA-1_19_1.fasta	USDA15WA-1_19_1	1583	2102	-	YP_006560585.1	1-520/522	===============	0/0	99.62	99.23	PHAGE	NC_018275_24644_25165	hypothetical protein Salmonella phage vB_SemP_Emek complete genome.	phage
